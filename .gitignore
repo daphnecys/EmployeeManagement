@@ -3,3 +3,5 @@
 ################################################################################
 
 /EmployeeManagement/bin/Debug/netcoreapp3.1
+/EmployeeManagement/obj
+/.vs/EmployeeManagement
